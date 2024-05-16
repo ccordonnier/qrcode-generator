@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "nom-de-votre-application",
+  "version": "1.0.0",
+  "description": "Description de votre application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Votre Nom",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
